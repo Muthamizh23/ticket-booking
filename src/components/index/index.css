@@ -1,0 +1,55 @@
+.index {
+  padding: 30px 0;
+}
+.index .movieLabel {
+  border: 1px solid #000;
+  padding: 20px 60px;
+  width: 75%;
+  margin: 0 auto;
+}
+.index .movieLabel select {
+  float: right;
+}
+.index .movieSeatInfo {
+  display: flex;
+  border: 1px solid #000;
+  padding: 20px 60px;
+  width: 75%;
+  margin: 0 auto;
+}
+.movieSeatInfoBox {
+  display: flex;
+  align-items: center;
+}
+.movieSeatInfoBox .tile {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #000;
+  margin-right: 5px;
+}
+.movieSeatInfoBox .tile.selected,
+.movieSeats .tile.selected {
+  background: #2cc02c;
+}
+.movieSeatInfoBox .tile.na,
+.movieSeats .tile.na {
+  background: #fff;
+}
+.movieSeatInfoBox .tile.occupied,
+.movieSeats .tile.occupied {
+  background: #000;
+}
+.movieSeats {
+  display: flex;
+  border: 1px solid #000;
+  padding: 20px 60px;
+  width: 75%;
+  margin: 0 auto;
+}
+.movieSeats .tile {
+  width: 20px;
+  height: 23px;
+  border: 1px solid #000;
+  margin: 5px;
+  cursor: pointer;
+}

@@ -1,0 +1,31 @@
+.signIn {
+  padding: 60px 0;
+}
+.signIn .showHide {
+  right: 10px;
+  top: 6px;
+}
+.signIn p,
+.signIn label,
+.signIn .form-control {
+    font-size: .925rem;
+}
+.signIn .showHide img {
+  width: 20px;
+  cursor: pointer;
+}
+.signIn .formError {
+  position: absolute;
+  bottom: -22px;
+  font-size: 14px;
+  color: #f00100;
+  font-size: 12px;
+}
+.signIn .alert {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.signIn .alert .alert-heading {
+    font-size: 1.125rem;
+}

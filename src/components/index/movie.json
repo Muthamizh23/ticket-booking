@@ -1,0 +1,66 @@
+{
+    "miller": [
+        {
+            "id" : 1,
+            "selected" : false,
+            "occupied" : false,
+            "na" : true
+        },
+        {
+            "id" : 2,
+            "selected" : false,
+            "occupied" : false,
+            "na" : true
+        },
+        {
+            "id" : 3,
+            "selected" : false,
+            "occupied" : false,
+            "na" : true
+        },
+        {
+            "id" : 4,
+            "selected" : false,
+            "occupied" : false,
+            "na" : true
+        },
+        {
+            "id" : 5,
+            "selected" : false,
+            "occupied" : false,
+            "na" : true
+        }
+    ],
+    "ayalon": [
+        {
+            "id" : 1,
+            "selected" : false,
+            "occupied" : false,
+            "na" : true
+        },
+        {
+            "id" : 2,
+            "selected" : false,
+            "occupied" : false,
+            "na" : true
+        },
+        {
+            "id" : 3,
+            "selected" : false,
+            "occupied" : false,
+            "na" : true
+        },
+        {
+            "id" : 4,
+            "selected" : false,
+            "occupied" : false,
+            "na" : true
+        },
+        {
+            "id" : 5,
+            "selected" : false,
+            "occupied" : false,
+            "na" : true
+        }
+    ]
+}
